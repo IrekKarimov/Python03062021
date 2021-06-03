@@ -1,0 +1,6 @@
+File <.\SourcePath\file1.txt> copied in <.\DestinationPath\file1.txt>
+File <.\SourcePath\file2.txt> copied in <.\DestinationPath\file2.txt>
+File <.\SourcePath\file3.txt> copied in <.\DestinationPath\file3.txt>
+File <.\SourcePath\file4.txt> copied in <.\DestinationPath\file4.txt>
+[Errno 13] Permission denied: 'C:\\Windows\\System32\\file5.txt'
+Error copy file to C:\Windows\System32\file5.txt from .\123\file5.txt

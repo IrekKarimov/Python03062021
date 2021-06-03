@@ -1,0 +1,29 @@
+<config>
+
+    <file
+            source_path=".\SourcePath"
+            destination_path=".\DestinationPath"
+            file_name="file1.txt"
+    />
+    <file
+            source_path=".\SourcePath"
+            destination_path=".\DestinationPath"
+            file_name="file2.txt"
+    />
+    <file
+            source_path=".\SourcePath"
+            destination_path=".\DestinationPath"
+            file_name="file3.txt"
+    />
+    <file
+            source_path=".\SourcePath"
+            destination_path=".\DestinationPath"
+            file_name="file4.txt"
+    />
+    <file
+            source_path=".\123"
+            destination_path="C:\Windows\System32"
+            file_name="file5.txt"
+    />
+
+</config>

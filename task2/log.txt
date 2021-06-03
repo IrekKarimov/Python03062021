@@ -1,0 +1,4 @@
+file_01.bin OK
+file_02.bin FAIL
+file_03.bin NOT FOUND
+file_04.txt OK
